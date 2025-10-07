@@ -24,4 +24,9 @@
 7. Form dengan CSS
 <img width="1366" height="768" alt="Cuplikan layar 2025-10-07 123811" src="https://github.com/user-attachments/assets/a88e1139-da87-4f29-a0b3-0d33f8e22281" />
 
+# hasil tugas lab3
+<img width="1366" height="768" alt="Cuplikan layar 2025-10-07 133057" src="https://github.com/user-attachments/assets/15c36b2c-1a40-4815-96d2-577cfdb64db8" />
+<img width="1366" height="768" alt="Cuplikan layar 2025-10-07 133328" src="https://github.com/user-attachments/assets/b58530ea-5f0c-4885-ae8b-8908cdade7ed" />
+
+
 
